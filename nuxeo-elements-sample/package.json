@@ -13,6 +13,7 @@
     "test:integration": "polymer build # test that psk builds without error with the CLI"
   },
   "dependencies": {
+    "@lrnwebcomponents/deduping-fix": "^4.0.0",
     "@nuxeo/nuxeo-elements": "^3.0.8",
     "@polymer/app-layout": "^3.0.0-pre.15",
     "@polymer/app-route": "^3.0.0-pre.15",
